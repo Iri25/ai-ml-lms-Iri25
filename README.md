@@ -1,4 +1,4 @@
-ai-ml-lms-Iri25
+Artificial Intelligence
 
 Development of self-learning systems. Regression problems solved with the method of those smaller squares. Evaluating the performance of these methods.
 
